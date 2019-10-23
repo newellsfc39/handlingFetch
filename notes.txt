@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/1213430/how-to-fully-delete-a-git-repository-created-with-init
+
+how to remove a .git folder
+rm -rf .git

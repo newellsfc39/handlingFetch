@@ -1,0 +1,9 @@
+see documentation on CORB at https://www.chromium.org/Home/chromium-security/corb-for-developers
+and https://www.chromium.org/Home/chromium-security/extension-content-script-fetches
+
+solution found at: https://stackoverflow.com/questions/54301686/how-to-fixed-set-the-requests-mode-to-no-cors
+
+other helpful info:
+https://stackoverflow.com/questions/43262121/trying-to-use-fetch-and-pass-in-mode-no-cors
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+https://developer.mozilla.org/en-US/docs/Web/API/Request/mode
